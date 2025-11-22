@@ -1,0 +1,4 @@
+mancoon
+siamese
+ragdoll
+calico

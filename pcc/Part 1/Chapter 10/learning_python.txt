@@ -1,0 +1,3 @@
+In Python you can do many different things.
+In Python, you can code AIs.
+In Python you can code games as well.
